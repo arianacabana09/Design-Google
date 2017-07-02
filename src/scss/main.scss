@@ -26,8 +26,32 @@ body{
 
 .icon-left{
   float: right;
+  i{
+    a{
+      text-decoration: none;
+      color: $color-text;
+    }
+  }
 }
 
 .img-hero{
-  width: 80%;
+  width: 100%;
+}
+
+.text-intro{
+  float: left;
+}
+
+.font-date{
+  font-family: $font-t;
+}
+
+hr{
+  border-top: 4px solid $color-line;
+}
+
+section{
+  box-sizing: border-box;
+  margin: 50px 50px;
+  overflow: hidden;
 }
