@@ -17,4 +17,4 @@
 3. Subir tu carpeta a github y crear un gh-pages.
 
 > DEMO
-[Google Design](https://github.com)
+[Google Design](https://arianacabana09.github.io/Design-Google/)
