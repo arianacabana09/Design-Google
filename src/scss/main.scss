@@ -3,7 +3,31 @@
 @import "color";
 
 body{
+  font-family: $font-p;
   box-sizing: border-box;
   margin: 0;
   padding: 20px;
+  width: 100%
+}
+
+.center{
+  text-align: center;
+}
+
+.options{
+  ul{
+    li{
+      display: inline-block;
+      font-weight: 400;
+      margin: 15px;
+    }
+  }
+}
+
+.icon-left{
+  float: right;
+}
+
+.img-hero{
+  width: 80%;
 }
