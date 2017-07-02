@@ -1,2 +1,9 @@
 @import "fonts";
 @import "responsive";
+@import "color";
+
+body{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 20px;
+}
